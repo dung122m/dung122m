@@ -14,9 +14,9 @@
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
 <br>
-
-<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+
 
 <h3> 🔥 Streak Stats</h3>
 

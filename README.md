@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👯 I’m looking for careers on **Fullstack Developer**
+  
+- 🌱 I’m currently learning Frontend Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/dung122m](https://github.com/dung122m)
 
@@ -12,6 +14,9 @@
 - 📫 How to reach me **dungtran122cq@gmail.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
+
+
+
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>

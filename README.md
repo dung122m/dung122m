@@ -1,207 +1,218 @@
-<!-- =========================
-     DUNG TRAN — GITHUB PROFILE
-     ========================= -->
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Developer Animation"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="420" alt="Coding Animation">
 
 # Dung Tran
 
 ### Full-Stack Developer
 
-Building modern web applications with clean interfaces, practical architecture, and a focus on real-world usability.
+Building modern web applications with **React, Next.js, TypeScript & Laravel**
 
-<br/>
+<br>
 
 <a href="https://github.com/dung122m">
-  <img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=flat-square&logo=github">
 </a>
 <a href="https://netflix1-1.vercel.app/browse">
-  <img src="https://img.shields.io/badge/Live%20Project-Nanaflix-000000?style=for-the-badge&logo=vercel" alt="Nanaflix"/>
+<img src="https://img.shields.io/badge/Nanaflix-Live%20Demo-111111?style=flat-square&logo=vercel">
 </a>
-
-<br/><br/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Dung Tran**, a Full-Stack Developer focused on building web applications from frontend interfaces to backend services and APIs.
+I'm a Full-Stack Developer who enjoys building practical web applications with modern technologies.
 
-I enjoy turning ideas into functional products, experimenting with modern web technologies, and continuously improving the quality and maintainability of my projects.
+My focus is on creating clean user interfaces, integrating APIs, designing reliable application logic, and turning ideas into usable products.
 
-```text
-Frontend       → React · Next.js · TypeScript · Tailwind CSS
-Backend        → Node.js · PHP · Laravel · REST API
-Database       → MySQL
-Tools          → Git · GitHub · VS Code · npm
-Deployment     → Vercel
-```
+I mainly work with the **JavaScript / TypeScript ecosystem**, while also having experience with **PHP and Laravel** for backend development.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
 
-### Tools & Workflow
+### Tools & Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
+
+</div>
 
 ---
 
-## 🎬 Featured Project
+## Featured Project
 
 <div align="center">
 
-# Nanaflix
+# 🎬 Nanaflix
 
-### A modern movie discovery and browsing platform
+**A modern movie discovery and browsing platform**
 
-<br/>
+<br>
 
 <a href="https://netflix1-1.vercel.app/browse">
-  <img src="https://img.shields.io/badge/🌐%20OPEN%20NANAFLIX-Live%20Demo-111111?style=for-the-badge" alt="Open Nanaflix"/>
+<img src="https://img.shields.io/badge/OPEN%20NANAFLIX-LIVE%20DEMO-000000?style=for-the-badge&logo=vercel">
 </a>
 
 </div>
 
-<br/>
+<br>
 
-**Nanaflix** is a movie browsing platform built with a modern React-based stack.
+Nanaflix is a movie browsing platform built with **Next.js, React, TypeScript and Tailwind CSS**, focused on a clean and responsive browsing experience.
 
-### ✨ Highlights
+### Key Features
 
-* 🔎 Movie search and discovery
-* 🎭 Genre and category filtering
-* 🌍 Country filtering
-* 📅 Year filtering
-* 🎬 Movie, TV series and animation browsing
-* 📺 Movie detail pages
-* ⚡ Responsive user interface
-* 🔗 REST API integration
-* 🚀 Deployed with Vercel
+| Feature            | Description                            |
+| ------------------ | -------------------------------------- |
+| 🔎 Search          | Find movies quickly by keyword         |
+| 🎭 Categories      | Browse movies by genre and category    |
+| 🌍 Countries       | Filter content by country              |
+| 📅 Years           | Discover movies by release year        |
+| 🎬 Movie Types     | Movies, series, animation and TV shows |
+| 📺 Details         | Dedicated pages for individual titles  |
+| ⚡ Responsive UI    | Optimized for desktop and mobile       |
+| 🔌 API Integration | Dynamic movie data through REST APIs   |
 
-### 🧩 Built With
+### Stack
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `REST API` `Vercel`
-
-<br/>
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `REST API` · `Vercel`
 
 <div align="center">
 
 <a href="https://netflix1-1.vercel.app/browse">
-  <img src="https://img.shields.io/badge/▶%20Visit%20Nanaflix-000000?style=for-the-badge" alt="Visit Nanaflix"/>
+<img src="https://img.shields.io/badge/▶%20VISIT%20NANAFLIX-111111?style=for-the-badge">
 </a>
 
 </div>
 
 ---
 
-## 💡 What I Build
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🎨  Modern Frontend                                         │
-│      Responsive interfaces with React & Next.js              │
-│                                                              │
-│  ⚙️  Full-Stack Applications                                 │
-│      Frontend + backend + database integration               │
-│                                                              │
-│  🔌  REST APIs                                               │
-│      Connecting applications with external services          │
-│                                                              │
-│  🗄️  Data-Driven Applications                                │
-│      Working with MySQL and structured application data      │
-│                                                              │
-│  🚀  Deployment                                               │
-│      Shipping production-ready projects with Vercel          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Overview
+## What I Work With
 
 <div align="center">
 
-<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dung122m&show_icons=true" height="180" alt="GitHub Stats"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dung122m" height="180" alt="Top Languages"/>
+### ⚛️ Frontend
 
-<br/><br/>
+React
+Next.js
+TypeScript
+Tailwind CSS
 
-<img src="https://streak-stats.demolab.com/?user=dung122m&theme=dark&hide_border=true" width="495" alt="GitHub Streak"/>
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+Node.js
+PHP
+Laravel
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Data
+
+MySQL
+API Integration
+Data Handling
+Application Logic
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Workflow
+
+Git
+GitHub
+VS Code
+Vercel
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧠 Development Focus
+## Development Approach
 
-```text
-01  Build        → Turn ideas into working products
-02  Design       → Keep interfaces clean and intuitive
-03  Develop      → Write maintainable and reusable code
-04  Integrate    → Connect APIs, services and databases
-05  Deploy       → Ship projects and keep improving them
-```
+I like to keep development practical:
 
----
+**Build → Test → Improve → Deploy**
 
-## 🚀 Currently
-
-* 🔨 Building and improving **Nanaflix**
-* ⚛️ Exploring modern **React / Next.js** patterns
-* 🧩 Improving full-stack architecture and API integration
-* 🎨 Experimenting with better UI/UX
-* 📚 Continuously learning through real-world projects
+* Clean and understandable code
+* Reusable components
+* Responsive interfaces
+* Practical API integration
+* Maintainable project structure
+* Continuous improvement through real projects
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/dung122m">
-  <img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dung122m&show_icons=true" height="170" alt="GitHub Statistics">
 
-<a href="https://netflix1-1.vercel.app/browse">
-  <img src="https://img.shields.io/badge/Nanaflix-Live%20Demo-000000?style=for-the-badge&logo=vercel" alt="Nanaflix"/>
-</a>
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dung122m" height="170" alt="Top Languages">
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dung122m&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://streak-stats.demolab.com/?user=dung122m&theme=dark&hide_border=true" alt="GitHub Streak">
 
 </div>
 
 ---
 
+## Currently
+
+* 🔨 Improving **Nanaflix**
+* ⚛️ Exploring modern **Next.js & React** patterns
+* 🔌 Working with APIs and full-stack integrations
+* 🎨 Improving UI/UX and responsive design
+* 📚 Learning through hands-on projects
+
+---
+
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="300" alt="Typing Animation">
+
+<br>
 
 ### Thanks for visiting 👋
 
-**Build. Learn. Improve. Repeat.**
+<a href="https://github.com/dung122m">
+<img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://netflix1-1.vercel.app/browse">
+<img src="https://img.shields.io/badge/Nanaflix-Live%20Demo-000000?style=for-the-badge&logo=vercel">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dung122m&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views">
 
 </div>

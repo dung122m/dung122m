@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dung+Tran+%F0%9F%91%8B;Full-Stack+Developer;Building+modern+web+applications;Always+learning+%26+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Dung+Tran+%F0%9F%91%8B;Full-Stack+Developer;Building+modern+web+applications;Always+learning+%26+building" alt="Typing SVG">
 
 <br>
 
-<p>
-  <a href="https://github.com/dung122m">
-    <img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation">
+
+<br><br>
+
+<a href="https://github.com/dung122m">
+  <img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -36,7 +38,7 @@ I enjoy working across the entire development stack — from designing interface
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind">
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
@@ -44,7 +46,7 @@ I enjoy working across the entire development stack — from designing interface
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel">
 </p>
 
 `Node.js` · `PHP` · `Laravel` · `REST API`
@@ -52,7 +54,7 @@ I enjoy working across the entire development stack — from designing interface
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,npm,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,npm,vercel">
 </p>
 
 `MySQL` · `Git` · `GitHub` · `VS Code` · `npm` · `Vercel`
@@ -69,7 +71,7 @@ I enjoy working across the entire development stack — from designing interface
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-336f2c35-1c86-4c7c-ae3b-7f8e6f4a5c8e.gif" width="420" alt="Coding Animation">
 
 </div>
 
@@ -93,7 +95,7 @@ The project focuses on building a smooth interface while working with API-driven
 ### 🧰 Built With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel">
 </p>
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `REST API` · `Vercel`
@@ -110,56 +112,48 @@ The project focuses on building a smooth interface while working with API-driven
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dung122m&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dung122m&show_icons=true" height="170" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dung122m&layout=compact" height="170" alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dung122m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
+<img src="https://streak-stats.demolab.com/?user=dung122m&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 💡 What I Like Building
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dung122m&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+|   🌐 Web Applications  | ⚛️ React / Next.js | 🧩 Full-Stack |
+| :--------------------: | :----------------: | :-----------: |
+| 🔌 API-driven Products |     🎨 UI / UX     | 🚀 Modern Web |
 
 </div>
 
 ---
 
-# 🎯 What I'm Interested In
-
-<div align="center">
-
-| 🌐 Web Development | ⚛️ React / Next.js | 🧩 Full-Stack |
-| :----------------: | :----------------: | :-----------: |
-|       🔌 APIs      |     🎨 UI / UX     | 🚀 Deployment |
-
-</div>
-
----
-
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
 ```text
-React
-Next.js
-TypeScript
-Node.js
-REST APIs
-Full-Stack Architecture
-Web Performance
-Modern UI / UX
+⚛️ React & Next.js
+🔷 TypeScript
+🟢 Node.js
+🔌 REST APIs
+🏗️ Full-Stack Architecture
+🎨 Modern UI / UX
+⚡ Web Performance
+🚀 Deployment & Production
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-1e7f0d5a-8c2d-4b8f-b7b6-0b7d2e7f7b5a.gif" width="350" alt="Coding">
 
 <br><br>
 

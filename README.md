@@ -1,21 +1,40 @@
+<div align="center">
+
 # 👋 Hi, I'm Dung Tran
 
-### Full-Stack Developer · Web Developer · Problem Solver
+### Full-Stack Developer
 
-I enjoy building modern, practical web applications with a focus on clean interfaces, maintainable code, and a smooth user experience.
+Building modern web applications, exploring new technologies,
+and turning ideas into real-world projects.
 
-I'm constantly learning new technologies, experimenting with different ideas, and turning them into real-world projects.
+<p>
+  <a href="https://github.com/dung122m">
+    <img src="https://img.shields.io/badge/GitHub-dung122m-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/dung122m?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-11-0A0A0A?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.facebook.com/dung.tran122">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 💻 Full-Stack Developer focused on modern web technologies
-* 🌱 Always learning and exploring new tools and technologies
-* 🧩 Interested in building products from frontend to backend
-* 🎨 I care about UI, UX, performance, and clean code
-* 🔧 I enjoy turning ideas into working applications
-* 🇻🇳 Based in Vietnam
+I'm a **Full-Stack Developer** interested in building web applications from frontend to backend.
+
+I enjoy working with modern JavaScript technologies while also having experience with traditional web development and Laravel-based applications.
+
+* 🔭 Currently building and improving **Nanaflix**
+* 🌱 Exploring modern **React / Next.js / TypeScript** development
+* 🧩 Interested in full-stack architecture and API-driven applications
+* 🎨 Enjoy creating clean and responsive user interfaces
+* ⚡ Always experimenting with new technologies and ideas
+* 🇻🇳 Vietnam
 
 ---
 
@@ -27,144 +46,192 @@ I'm constantly learning new technologies, experimenting with different ideas, an
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-**HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS**
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 </p>
 
-**Node.js · REST APIs**
+`Node.js` · `PHP` · `Laravel` · `REST API`
 
-### Database & Data
+### Database
 
-**REST API · JSON · API Integration**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+`MySQL` · `JSON` · `API Integration`
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" />
 </p>
 
-**Git · GitHub · VS Code · Vercel · npm**
+`Git` · `GitHub` · `VS Code` · `npm` · `Vercel`
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🎬 Nanaflix
+## 🎬 Nanaflix
 
-A modern movie browsing platform inspired by streaming services.
+**A modern movie discovery and browsing platform built with Next.js.**
 
-Built as a personal project with a focus on a clean browsing experience, responsive UI, filtering, search, movie discovery, and API integration.
+Nanaflix is a personal project focused on creating a smooth movie browsing experience with modern web technologies.
 
-**Tech:**
-`Next.js` `React` `TypeScript` `Tailwind CSS` `REST API`
-
-**Highlights**
+### Features
 
 * 🎞️ Movie discovery and browsing
 * 🔎 Movie search
 * 🏷️ Genre and category filtering
 * 🌍 Country and year filtering
-* 📄 Movie detail pages
+* 🎬 Movie type filtering
+* 📄 Detailed movie pages
 * 📱 Responsive interface
-* ⚡ Server-side data fetching and caching
+* ⚡ API-driven architecture
 * 🚀 Deployed with Vercel
 
----
+**Built with**
 
-### 💻 Personal Web Projects
-
-A collection of web applications and experiments built while learning and exploring modern web development.
-
-I use these projects to experiment with:
-
-* Modern React architecture
-* Next.js App Router
-* API integration
-* Responsive UI
-* Component-based development
-* TypeScript
-* Authentication and application architecture
-* Deployment and production workflows
+`Next.js` `React` `TypeScript` `Tailwind CSS` `REST API`
 
 ---
 
-### 🧪 Experiments & Side Projects
+## 🛒 EcommerceShop
 
-Small projects and technical experiments created to learn new technologies, test ideas, and improve development skills.
+A web-based e-commerce project exploring product browsing, shopping workflows, and modern web interfaces.
 
-> Not every project needs to become a product.
-> Some projects exist simply to learn something new.
+**Built with**
 
----
+`JavaScript` `HTML` `CSS`
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dung122m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung122mE&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+→ [View Repository](https://github.com/dung122m/EcommerceShop)
 
 ---
 
-## 🧠 Currently Learning
+## 🍔 BachKhoa Smart Food Court
 
-I'm continuously expanding my knowledge across the full web development stack.
+A web application developed for a university food ordering environment.
+
+The project explores real-world web application workflows including product presentation and food ordering.
+
+**Built with**
+
+`PHP` `HTML` `CSS` `JavaScript`
+
+→ [View Repository](https://github.com/dung122m/BachKhoaSmartFoodCourt)
+
+---
+
+## 🛍️ Bemet
+
+A Laravel-based web shop project focused on building an e-commerce experience with a traditional backend architecture.
+
+**Built with**
+
+`Laravel` `PHP` `JavaScript` `HTML` `CSS`
+
+→ [View Repository](https://github.com/dung122m/bemet)
+
+---
+
+## 💬 Laravel Messenger
+
+A web-based messaging project built while exploring Laravel application development and communication features.
+
+**Built with**
+
+`Laravel` `PHP` `JavaScript`
+
+→ [View Repository](https://github.com/dung122m/laravel_messenger)
+
+---
+
+# 📚 Other Projects
+
+Some of my other repositories include:
+
+| Project                                                                         | Description                    | Technology        |
+| ------------------------------------------------------------------------------- | ------------------------------ | ----------------- |
+| 🏪 [Topzone](https://github.com/dung122m/topzone)                               | E-commerce / management system | Laravel           |
+| 🌐 [Anonystick](https://github.com/dung122m/anonystick)                         | Full-stack web project         | HTML / JavaScript |
+| 🍔 [BachKhoaSmartFoodCourt](https://github.com/dung122m/BachKhoaSmartFoodCourt) | Food ordering website          | PHP               |
+| 🛒 [EcommerceShop](https://github.com/dung122m/EcommerceShop)                   | E-commerce website             | JavaScript        |
+| 🛍️ [Bemet](https://github.com/dung122m/bemet)                                  | Laravel web shop               | Laravel           |
+| 💬 [Laravel Messenger](https://github.com/dung122m/laravel_messenger)           | Messaging application          | Laravel           |
+
+[View all repositories →](https://github.com/dung122m?tab=repositories)
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dung122m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung122m&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+# 🎯 What I'm Interested In
 
 ```text
-Frontend
-├── React
-├── Next.js
-├── TypeScript
-└── Modern UI / UX
-
-Backend
-├── Node.js
-├── REST APIs
-└── Application Architecture
-
-Engineering
-├── Clean Code
-├── Git & GitHub
-├── Performance
-└── Deployment
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🌐 Modern Web Applications                  │
+│  ⚛️ React & Next.js                          │
+│  🧩 Full-Stack Development                   │
+│  🔌 API-driven Applications                  │
+│  🎨 UI / UX                                  │
+│  🗄️ Backend & Database Architecture          │
+│  🚀 Deployment & Production                  │
+│  🧪 Experimenting with New Technologies     │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 What I Like Building
+# 🌱 Currently Exploring
 
-```text
-🌐 Web Applications
-🎬 Content & Media Platforms
-📱 Responsive Interfaces
-⚙️ Full-Stack Applications
-🔌 API-driven Products
-🧩 Developer Tools
-🧪 Experimental Projects
-```
+**Frontend**
 
----
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-## 📫 Let's Connect
+**Backend**
 
-If you'd like to talk about development, technology, or interesting projects, feel free to reach out.
+`Node.js` · `REST APIs` · `Laravel`
 
-<p>
-  <a href="https://github.com/dung122m">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Engineering**
+
+`Clean Architecture` · `Performance` · `API Design` · `Deployment`
 
 ---
 
-<p align="center">
-  <i>Building things. Learning constantly. Improving every day.</i>
-</p>
+# 💭 A Little More
 
+> I believe the best way to learn development is to build things.
+
+Most of my projects start with a simple idea — then become an opportunity to learn something new, solve problems, and improve along the way.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+**Building · Learning · Improving**
+
+<br />
+
+<a href="https://github.com/dung122m">
+  <img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
